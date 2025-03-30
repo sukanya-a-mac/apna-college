@@ -1,3 +1,4 @@
 # apna-college
-this is my first repository
-author - sukanya kumari
+This is my first repository
+<br>
+Author - Sukanya Kumari
